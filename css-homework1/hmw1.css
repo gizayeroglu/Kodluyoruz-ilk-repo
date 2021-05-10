@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+.muzikdukkan {
+  color: deeppink;
+}
+header {
+  margin: auto;
+  text-align: center;
+}
+.altBaslik {
+  color: purple;
+}
+.basliknum3 {
+  color: darkgoldenrod;
+}
+.TabMenu {
+  list-style: none;
+  display: inline-flex;
+  text-align: center;
+  margin: auto;
+}
+.TabMenu li {
+  text-align: center;
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.urunList li {
+  margin: auto;
+  text-align: center;
+  width: fit-content;
+}
+.vizyonMisyon {
+  padding: 20px;
+  padding-top: 0;
+}
+.urunlerList {
+  width: fit-content;
+  margin: auto;
+  text-align: center;
+}
+.urunlerList li {
+  margin-bottom: 30px;
+  margin-top: 5px;
+}
